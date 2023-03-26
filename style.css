@@ -1,0 +1,112 @@
+.homestyle {
+    border-bottom: 3px solid rgb(255, 238, 0);
+}
+.title {
+    font-family: 'Josefin Sans', sans-serif;
+    color: rgb(255, 238, 0);
+    font-size: 80px;
+    margin: auto;
+    background-color: #179331;
+    border-radius: 25px;
+    border: 7px solid rgb(255, 238, 0);
+    padding: 40px;
+}
+.text {
+    margin: auto;
+    font-family: 'Titillium Web', sans-serif;
+    color: rgb(255, 238, 0);
+    background-color: #179331;
+    border-radius: 25px;
+    border: 7px solid rgb(255, 238, 0);
+    padding: 25px;
+    font-size: 22px;
+    text-align: center;
+}
+.travel {
+    margin: auto;
+    font-family: 'Titillium Web', sans-serif;
+    color: rgb(255, 238, 0);
+    background-color: #179331;
+    border-radius: 25px;
+    border: 7px solid rgb(255, 238, 0);
+    text-align: center;
+    font-size: 22px;
+}
+#footer {
+    border-top: 5px solid rgb(255, 238, 0);
+    background-color: #8ADD68;
+}
+.text2 {
+    margin: auto;
+    font-family: 'Titillium Web', sans-serif;
+    color: rgb(255, 238, 0);
+    background-color: #8ADD68;
+    border-radius: 25px;
+    padding: 5px;
+    font-size: 22px;
+    text-align: center;
+}
+.travel2 {
+    margin: auto;
+    font-family: 'Titillium Web', sans-serif;
+    color: rgb(255, 238, 0);
+    background-color: #79dd52;
+    text-align: center;
+    font-size: 22px;
+}
+#about {
+    background-color: #058F2C;
+    border-bottom: 3px solid rgb(255, 238, 0);
+}
+#entryform {
+    background-color: #65A44A;
+    border-bottom: 3px solid rgb(255, 238, 0);
+
+}
+
+.title2 {
+    font-family: 'Josefin Sans', sans-serif;
+    color: rgb(255, 238, 0);
+    font-size: 80px;
+    margin: auto;
+    background-color: #65A44A;
+    border-radius: 25px;
+    border: 7px solid rgb(255, 238, 0);
+    padding: 40px;
+}
+.entry-form {
+    border: solid 5px rgb(255, 238, 0);
+    border-radius: 25px;
+    width: 35%;
+}
+.textfield {
+    border: 2px solid rgb(255, 238, 0);
+    border-radius: 10px;
+    width: 300px;
+    background-color: #cbffb5;
+}
+.text-font-color {
+    font-family: 'Josefin Sans', sans-serif;
+    color: rgb(255, 238, 0);
+}
+.titlefield {
+    border: 2px solid rgb(255, 238, 0);
+    border-radius: 10px;
+    width: 125px;
+    background-color: #cbffb5;
+}
+.submitbutton {
+    border: 5px solid rgb(255, 238, 0);
+    border-radius: 10px;
+    background-color: #cbffb5;
+    font-family: 'Josefin Sans', sans-serif;
+    color:black;
+    font-size: 40px;
+}
+.bi {
+    height: 50px;
+    width: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+    color:rgb(255, 238, 0);
+}
